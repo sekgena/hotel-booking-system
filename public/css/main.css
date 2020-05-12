@@ -1,0 +1,33 @@
+.card__hotel {
+    padding: 0;
+}
+
+.card__hotel .card-body .btn {
+    width: 100%;
+}
+
+.available {
+    /*border-color: #3490dc;*/
+}
+
+.not-available {
+    border-color: #e3342f;
+    background: #fff0f7;
+}
+
+.card__hotel .hide {
+    display: none;
+}
+
+.card__hotel .show {
+    display: inline-block;
+}
+
+.no__data {
+    margin: 16px auto;
+    font-size: 22px;
+}
+
+textarea {
+    width: 100%;
+}
